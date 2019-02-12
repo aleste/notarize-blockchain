@@ -1,0 +1,35 @@
+[
+    {
+      
+      "color": "red lighten-2",
+      "icon": "mdi-star",
+      "subject": "Asunto 2",
+      "text": "lorem 1",
+      "hash": "e9dc1b81bc11a35e25edd715cfaf435fba5c6c6fd56d25add62bb1532371b0b6",
+      "version": "2",
+      "datetime": "hora",
+      "user": "pepe"
+    },
+    {
+      
+        "color": "blue lighten-2",
+        "icon": "mdi-star",
+        "subject": "Asunto 1",
+        "text": "lorem 1",
+        "hash": "e9dc1b81bc11a35e25edd715cfaf435fba5c6c6fd56d25add62bb1532371b0b6",
+        "version": "1",
+        "datetime": "hora",
+        "user": "pepe"
+      },
+      {
+        "color": "green lighten-2",
+        "icon": "mdi-star",
+        "subject": "Asunto 1",
+        "text": "lorem 1",
+        "hash": "e9dc1b81bc11a35e25edd715cfaf435fba5c6c6fd56d25add62bb1532371b0b6",
+        "version": "0",
+        "datetime": "hora",
+        "user": "pepe"
+      }
+
+  ]
